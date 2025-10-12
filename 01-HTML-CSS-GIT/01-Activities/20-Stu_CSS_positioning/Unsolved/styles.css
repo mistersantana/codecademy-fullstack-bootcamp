@@ -12,6 +12,12 @@
 
 /* Add positioning rules for .one and .two */
 .one {
+  position: relative;
+  top: 10px;
+  left: 10px;
 }
 .two {
+  position: absolute;
+  bottom: 10px;
+  right: 10px;
 }
