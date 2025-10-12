@@ -1,2 +1,6 @@
 /* Style .box with padding, border, and margin */
-.box { }
+.box {
+  padding: 10%;
+  border: 10px;
+  margin: 10%;
+}
